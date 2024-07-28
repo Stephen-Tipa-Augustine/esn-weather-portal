@@ -1,0 +1,8 @@
+body {
+    overflow-x: hidden !important;
+    overflow-y: hidden !important;
+}
+
+.main-wrapper {
+    height: 100vh !important;
+}
